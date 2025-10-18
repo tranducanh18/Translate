@@ -19,3 +19,4 @@ pip3 install tokenizers
 
 cai dat thư viện sentencepiece
 pip3 install sentencepiece
+pip install protobuf
