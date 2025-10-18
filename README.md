@@ -19,4 +19,5 @@ pip3 install tokenizers
 
 cai dat thư viện sentencepiece
 pip3 install sentencepiece
+# transformers cần protobuf để hoạt động
 pip install protobuf
